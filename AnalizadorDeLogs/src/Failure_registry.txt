@@ -2,3 +2,4 @@ Reading error: src\errores.log
 Reading error: src\errores.log
 Reading error: src\errores.log
 Reading error: src\errores.log
+Reading error: src\errores.log
